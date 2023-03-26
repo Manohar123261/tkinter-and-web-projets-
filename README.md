@@ -3,7 +3,7 @@
 //my name is manohar
 
 //what is your name
-
+//I am fine
 from tkinter import *
 import random
 def prnt(row,col):
