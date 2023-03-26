@@ -659,6 +659,7 @@ class test:
         home=PhotoImage(file="C:\\Users\\91797\\Downloads\\home.png")
         Button(fr3,image=home,command=scr7).grid(row=8,column=9,padx=550)
         root.mainloop()
+        //hy my name is manohar
 
         
 sel=test(36,"manohar")
