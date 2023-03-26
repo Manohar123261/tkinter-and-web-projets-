@@ -1,5 +1,6 @@
 # tkinter-and-web-projets-
 <!-- that is a source code for tic tac toe game -->
+//what is your name
 from tkinter import *
 import random
 def prnt(row,col):
