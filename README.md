@@ -1,4 +1,5 @@
 # tkinter-and-web-projets-
+<!-- that is a source code for tic tac toe game -->
 from tkinter import *
 import random
 def prnt(row,col):
@@ -110,3 +111,6 @@ for row in range(3):
         buttons[row][col].grid(row=row,column=col)
 
 root.mainloop()
+
+
+hy
